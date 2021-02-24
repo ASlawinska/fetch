@@ -1,8 +1,11 @@
-# Repository contains the  node.js package installation
-## NAME: webpack_install
+# Repository contains the usege fetch
+## NAME: fetch
 
 ## General info
-Repository contains all files, lodader, and configuration to work as front-end developer. 
+Repository contains the usege of API interface of fetch. It is possible to access and manipulate the part of http protocol. 
+
+## Use base
+jsonbin.io
 
 ## Use packages
 * webpack@4.29.6
@@ -29,7 +32,4 @@ Repository contains all files, lodader, and configuration to work as front-end d
 * autoprefixer@9.7.4
 * postcss-loader@3.0.0
 * copy-webpack-plugin@5.1.1
-
-#Instruction
-Download all zip file. Next install webpack // npm install webpack. 
-Edited file in folder src. <- new project 
+ 
